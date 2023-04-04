@@ -1,0 +1,13 @@
+
+.button{
+     border-radius: 12px;
+    border: 2px solid green;
+    height: 40px;
+    width: 200px;
+    align-items: center;
+  margin-left: auto;
+    background-color: rebeccapurple;
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+}
